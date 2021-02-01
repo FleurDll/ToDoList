@@ -15,5 +15,3 @@ exports.getDay = function() {
   };
   return today.toLocaleDateString("fr-FR", options);
 }
-
-console.log(module.exports);
